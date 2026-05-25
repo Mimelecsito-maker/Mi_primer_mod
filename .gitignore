@@ -1,15 +1,7 @@
-# Archivos del sistema
+*.mcpack
+*.zip
 .DS_Store
 Thumbs.db
-
-# Archivos de compilación
-*.class
-*.jar
-
-# IDE
-.vscode/
-.idea/
-*.iml
-
-# Dependencies
 node_modules/
+.env
+*.log

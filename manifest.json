@@ -1,20 +1,16 @@
 {
   "format_version": 2,
   "header": {
+    "description": "Mi primer mod increíble para Minecraft Bedrock",
     "name": "Mi Primer Mod",
-    "description": "Un increíble mod creado por Mimelecsito-maker",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 20, 0]
+    "uuid": "12345678-1234-1234-1234-123456789012",
+    "version": [1, 0, 0]
   },
   "modules": [
     {
+      "description": "Módulo principal del pack",
       "type": "resources",
-      "uuid": "00000000-0000-0000-0000-000000000001",
-      "version": [1, 0, 0]
-    },
-    {
-      "type": "data",
-      "uuid": "00000000-0000-0000-0000-000000000002",
+      "uuid": "87654321-4321-4321-4321-210987654321",
       "version": [1, 0, 0]
     }
   ],

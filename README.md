@@ -1,29 +1,46 @@
-# Mi Primer Mod 🎮
+# Mi Primer Mod - Minecraft Bedrock
 
-Un addon/mod increíble para Minecraft creado por **Mimelecsito-maker**.
+¡Bienvenido a mi primer mod para Minecraft Bedrock!
 
-## Características ✨
+## 📋 Información del Mod
 
-- ✅ Nuevas entidades personalizadas
-- ✅ Recetas de crafteo custom
-- ✅ Texturas personalizadas
-- ✅ Soporte multiidioma
+- **Nombre:** Mi Primer Mod
+- **Versión:** 1.0.0
+- **Plataforma:** Minecraft Bedrock
+- **Descripción:** Mi primer mod increíble para Minecraft Bedrock
 
-## Instalación 📦
+## 📦 Estructura del Proyecto
 
-1. Descarga el archivo `.mcpack`
-2. Abre Minecraft
-3. Importa el pack
-4. ¡Disfruta!
+```
+Mi_primer_mod/
+├── manifest.json           # Archivo de configuración principal
+├── texts/
+│   ├── es_ES.lang        # Textos en español
+│   └── en_US.lang        # Textos en inglés
+├── README.md             # Este archivo
+└── .gitignore            # Archivos a ignorar
+```
 
-## Versión 🏷️
+## 🚀 Cómo Usar
 
-v1.0.0 - Compatible con Minecraft 1.20+
+1. Descarga este repositorio
+2. Comprime la carpeta en formato `.zip`
+3. Renombra el archivo a `.mcpack`
+4. Abre el archivo con Minecraft Bedrock
+5. Selecciona el mundo donde quieres activar el mod
 
-## Autor 👨‍💻
+## 📝 Estructura de Carpetas
 
-**Mimelecsito-maker**
+- **manifest.json** - Archivo de configuración principal (OBLIGATORIO)
+- **texts/** - Archivos de idioma (.lang)
+- **textures/** - Aquí irán tus texturas personalizadas
+- **models/** - Aquí irán tus modelos personalizados
+- **particles/** - Aquí irán tus partículas personalizadas
 
----
+## 🎮 Próximos Pasos
 
-¡Gracias por usar mi mod! 🎉
+- Agrega tus texturas en la carpeta `textures/`
+- Modifica los UUIDs en `manifest.json` con valores únicos
+- Personaliza los textos en los archivos `.lang`
+
+¡Disfruta creando! 🎨
