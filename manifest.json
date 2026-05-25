@@ -1,16 +1,16 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Mi primer mod increíble para Minecraft Bedrock",
+    "description": "Mi primer mod para Minecraft Bedrock",
     "name": "Mi Primer Mod",
-    "uuid": "12345678-1234-1234-1234-123456789012",
+    "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
     "version": [1, 0, 0]
   },
   "modules": [
     {
-      "description": "Módulo principal del pack",
+      "description": "Recursos del pack",
       "type": "resources",
-      "uuid": "87654321-4321-4321-4321-210987654321",
+      "uuid": "82c27f4d-0097-4e42-b0b8-a8e2a8c8b8c8",
       "version": [1, 0, 0]
     }
   ],
