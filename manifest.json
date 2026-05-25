@@ -4,7 +4,8 @@
     "description": "Mi primer mod para Minecraft Bedrock",
     "name": "Mi Primer Mod",
     "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
-    "version": [1, 0, 0]
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
   },
   "modules": [
     {
